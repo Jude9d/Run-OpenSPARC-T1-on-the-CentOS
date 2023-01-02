@@ -7,9 +7,9 @@ buy it here : https://item.taobao.com/item.htm?ft=t&id=674734503362 ,then I will
 
 About the CentOS virtual machine:
 CentOS6.10  32bit ,
-IC design tools:
-novas2011 ；vcs2009 ；vera6.0.11；ius920 (ncvlog)
 
+IC design tools:novas2011 ；vcs2009 ；vera6.0.11；ius920 (ncvlog)
+root password：lingyi0001 ， user :ly ,password ：lingyi0001
 
 There are no license for these softwares, you need to install and setup the license by youself, I only provide the environment for running OpenSPARC, 
 I already tested the environment with my license, it works OK.
