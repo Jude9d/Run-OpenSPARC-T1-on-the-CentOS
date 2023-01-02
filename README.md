@@ -9,6 +9,7 @@ About the CentOS virtual machine:
 CentOS6.10  32bit ,
 
 IC design tools:novas2011 ；vcs2009 ；vera6.0.11；ius920 (ncvlog)
+
 root password：lingyi0001 ， user :ly ,password ：lingyi0001
 
 There are no license for these softwares, you need to install and setup the license by youself, I only provide the environment for running OpenSPARC, 
