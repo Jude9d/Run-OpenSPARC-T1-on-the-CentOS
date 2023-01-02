@@ -12,8 +12,8 @@ novas2011 ；vcs2009 ；vera6.0.11；ius920 (ncvlog)
 
 
 There are no license for these softwares, you need to install and setup the license by youself, I only provide the environment for running OpenSPARC, 
-I alrady tested the environment with my license.
+I already tested the environment with my license, it works OK.
 
-More informations on the baidu disk, or you can reference my blog here :https://blog.csdn.net/oYeXingDeHuHuan1/article/details/124620324?spm=1001.2014.3001.5502 .
+ You can get more informations form  the PDF  on the baidu disk, or you can reference my blog here :https://blog.csdn.net/oYeXingDeHuHuan1/article/details/124620324?spm=1001.2014.3001.5502 .
 I will update more informations about Run-OpenSPARC-T1-on-the-CentOS here .
 
