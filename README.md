@@ -3,7 +3,7 @@ Run OpenSPARC T1 on the CentOS virtual machine， you can watch the video here: 
 
 You can download The CentOS virtual machine  from baidu disk ：https://pan.baidu.com/s/1PNvQkrqlH6MsbgjooVzl-g ，code:y001 , 
 the files are not complete as you can see,
-buy it here : https://item.taobao.com/item.htm?ft=t&id=674734503362 ,then I will send the missing files .
+buy it here : https://item.taobao.com/item.htm?spm=a312a.7700824.w4004-24917642665.4.161f174bLxc5bG&id=718550375906 ,then I will send the missing files .
 
 About the CentOS virtual machine:
 CentOS6.10  32bit ,
